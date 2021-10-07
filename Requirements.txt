@@ -1,3 +1,4 @@
+yfinance
 streamlit
 pandas
-yfinance
+base64
