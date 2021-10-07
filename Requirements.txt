@@ -1,3 +1,5 @@
+numpy
+openpyxl
 yfinance
 streamlit
 pandas
