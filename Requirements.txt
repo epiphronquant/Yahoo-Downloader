@@ -1,6 +1,6 @@
 numpy
 openpyxl
-yfinance
+yfinance == 0.1.63
 streamlit
 pandas
 base64
