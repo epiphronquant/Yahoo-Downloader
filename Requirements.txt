@@ -1,6 +1,0 @@
-numpy
-openpyxl
-yfinance == 0.1.63
-streamlit
-pandas
-base64
