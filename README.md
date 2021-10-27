@@ -6,6 +6,6 @@ yfinance is found here https://pypi.org/project/yfinance/. This app could be tho
 
 Tickers inputted need to be in the yahoo finance style found on their website and url. Usage of the app should be straightforward. 
 
-Statements downloaded with this app should be treated with a grain of salt. Key numbers tend to be correct and grossly incorrect numbers have been deleted. 
+Statements downloaded with this app should be treated with a grain of salt. Key numbers tend to be correct and grossly incorrect numbers have been deleted. I would suggest using XueQiu downloader to get such data. 
 
 Various Other Information is quite accurate and can download a lot of information on stocks ranging from key valuation ratios to where their headquarters is located.
