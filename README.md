@@ -4,7 +4,7 @@
 This app is graphically displayed by Streamlit and is powered by yfinance. 
 yfinance is found here https://pypi.org/project/yfinance/. This app could be thought of as a wrapper for yfinance that allows it to be used without python knowledge.
 
-Tickers inputted need to be in the yahoo finance style found on their website and url.
+Tickers inputted need to be in the yahoo finance style found on their website and url. Usage of the app should be straightforward. 
 
 Statements downloaded with this app should be treated with a grain of salt. Key numbers tend to be correct and grossly incorrect numbers have been deleted. 
 
