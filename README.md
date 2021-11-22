@@ -1,5 +1,5 @@
 # Yahoo Downloader App
-### Press link to use APP https://share.streamlit.io/epiphronquant/yahoo-downloader/main/Yahoo_Downloader.py
+### As we cannot guarantee the accuracy of yfinance. We recommend using the xueqiu downloader instead https://share.streamlit.io/epiphronquant/xueqiu_downloader/main/XueQiu_Scraper.py . The Yahoo Downloader has been taken down to make room for our upcoming HKEX short selling data app.
 
 This app is graphically displayed by Streamlit and is powered by yfinance. 
 yfinance is found here https://pypi.org/project/yfinance/. This app could be thought of as a wrapper for yfinance that allows it to be used without python knowledge.
